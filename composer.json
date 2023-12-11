@@ -1,0 +1,9 @@
+{
+  "name": "guirod/design-patterns",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "Guirod\\DesignPatterns\\": "src/"
+    }
+  }
+}
