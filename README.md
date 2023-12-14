@@ -23,6 +23,8 @@ Le code des exemples du cours est situé dans ce repository (<https://github.com
 
 Pensez à exécuter `composer dump-autoload` à la racine du projet pour générer les fichiers d'autoload. 
 
+N’hésitez pas à utiliser le débugguer pas-à-pas pour bien comprendre le fonctionnement du design pattern, ça vous aidera à voir comment évoluent les objets au fil du temps. 
+
  
 ## Singleton
 
